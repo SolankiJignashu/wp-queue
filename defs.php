@@ -1,0 +1,5 @@
+<?php
+
+define( 'WHJ_DEFAULT_ATTEMPTS', 15 );
+define( 'WHJ_DEFAULT_INTERVAL', 1 );
+define( 'WHJR_QUEUE_RESERVED_TIME', 60 );
